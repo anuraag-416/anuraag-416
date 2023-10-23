@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuraag Ramineni</h1>
-<h3 align="center">A passionate Backend developer from India , looking to design and build systems , ML and NLP enthusiast </h3>
+<h3 align="center">A passionate Backend developer from India , looking to design and build systems , love building ML and NLP models. </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraag-416&label=Profile%20views&color=0e75b6&style=flat" alt="anuraag-416" /> </p>
