@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Building scalalable code**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Spring Boot , REST APIs**
 
