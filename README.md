@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **anuraagramineni456@gmail.com**
 
-- ⚡ Fun fact **I am Probably fixing a prod issue that i caused.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
