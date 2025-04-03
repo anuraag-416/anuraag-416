@@ -67,6 +67,6 @@
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraag-416&" alt="anuraag-416" /></p>
 ---
 
