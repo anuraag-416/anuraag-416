@@ -12,11 +12,6 @@
 
 ---
 
-### 🧑‍💻 Connect with me  
-<!-- Add your social links here if available -->
-
----
-
 ### 🛠️ Languages and Tools
 
 #### 🌐 Frontend  
